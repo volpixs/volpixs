@@ -14,4 +14,4 @@
 REST API with authentication, CRUD, and database integration.
 
 ## 📫 Contact
-- LinkedIn: https://www.linkedin.com/in/seu-linkedin
+- LinkedIn: https://www.linkedin.com/in/filipe-volpini-junior/?locale=en-US
